@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas Challenge: Heroes of Pymoli
 
 My first observation is related to Gender Demographics: the majority (84%) of paid members are male. It comes as no surprise that most Heroes of Pymoli’s revenue came from this gender ($1,967). Clearly the game is doing a good job marketing to this demographic. 
 I will refrain from drawing any final conclusions on average spend for each gender here, because I believe that we do not have enough data to support any actionable insight, yet. 15 “Other / Non-Disclosed” gender is not significant enough to draw conclusions about average spend. Also, since this is an online game, one question we must keep in mind is “are players really keying in their actual gender?” since this information is unverifiable. Minor differences, then, should be ruled out.
