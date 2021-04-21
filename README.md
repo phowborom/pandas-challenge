@@ -1,1 +1,14 @@
 # pandas-challenge
+
+My first observation is related to Gender Demographics: the majority (84%) of paid members are male. It comes as no surprise that most Heroes of Pymoli’s revenue came from this gender ($1,967). Clearly the game is doing a good job marketing to this demographic. 
+I will refrain from drawing any final conclusions on average spend for each gender here, because I believe that we do not have enough data to support any actionable insight, yet. 15 “Other / Non-Disclosed” gender is not significant enough to draw conclusions about average spend. Also, since this is an online game, one question we must keep in mind is “are players really keying in their actual gender?” since this information is unverifiable. Minor differences, then, should be ruled out.
+With that said, our limited data does show higher spend for non-males. Perhaps our marketing team could do a better job marketing to these demographics. As Lead Analyst I would recommend piloting a female lead character so we can get more information on this demographic for future developments and see if we could generate a revenue increase at the same time.
+
+Another observation on Age Demographics shows that the game is most popular among the 20-24 years age group. This is consistent with other games of the genre. What is surprising is that across all age groups, the average total purchase per person is very consistent. The average 10-year-old is spending the same as the average 30-year-old here. 
+Just like gender demographics, we must keep in mind that players may not key in their accurate age in an online game, but this spread is consistent enough.
+My recommendation here would be to expand our most profitable age group, the 35-39 group. I would focus our marketing in on that group, since they spend the most on average. The data from this response should prove to be insightful in the future.
+
+Lastly, I will conclude that the average paid players are not price sensitive. What I mean by that is that our most popular items are not our cheapest item. There is no correlation there. This causes our top two most popular items to also be our most profitable items.
+The conclusion here leads me to question whether we are pricing our items right. Differences of cents seem to be meaningless for our players. Why are the best items not costly than the worst items? I would recommend a restructuring of our prices so that they are most consistent with the item’s usefulness in the game.
+
+One data I’d really like to see is the total players (paid AND unpaid) since this is a free game. As a Lead Analyst I would be very interested in getting an insight into how I can convert non-paying players into paying players. What is the percentage of paid vs. unpaid? We’ve generated a very respectable revenue for a free game, but there is always the potential to make more.
